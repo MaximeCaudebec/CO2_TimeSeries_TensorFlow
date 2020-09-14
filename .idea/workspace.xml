@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ef0e8f4-e2ca-4287-85e0-c661952b570d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="58405b9e-6a75-48b2-ad72-6cd8b58d0b4e" />
+  <component name="ProjectId" id="1hWNvxQDRNvIzjJ1xAy26kryfyH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python">
+      <module name="CO2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Maxime\Desktop\CO2\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="CO2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef0e8f4-e2ca-4287-85e0-c661952b570d" name="Default Changelist" comment="" />
+      <created>1600123122529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600123122529</updated>
+      <workItem from="1600123137272" duration="3980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="238" key="#Inspections" timestamp="1600125165447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="139" y="238" key="#Inspections/0.0.2048.1112@0.0.2048.1112" timestamp="1600125165447" />
+    <state x="0" y="211" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600123459215">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="0" y="211" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1600123459215" />
+    <state x="325" y="323" key="FileChooserDialogImpl" timestamp="1600123453662">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="325" y="323" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1600123453662" />
+    <state x="22" y="204" key="SettingsEditor" timestamp="1600124300807">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="22" y="204" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1600124300807" />
+  </component>
+</project>
