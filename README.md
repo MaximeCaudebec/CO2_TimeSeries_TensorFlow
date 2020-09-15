@@ -7,8 +7,9 @@ Acutal CO2. 09/14/2020:  **412.5ppm**
 Model Pred. 09/14/2020: **417.7ppm**
 
 ![Image of plot using uncleaned set](https://github.com/MaximeCaudebec/CO2_TimeSeries_TensorFlow/blob/master/co2_MLO.png)
+_________________________________________________________________
 
-Training dataset provided by NOAA Global Monitoring Laboratory. 
+Training dataset provided by *NOAA Global Monitoring Laboratory*
 
 Sample sensor located at Mauna Loa Observatory (MLO)
 
